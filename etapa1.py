@@ -24,3 +24,5 @@ else:
 
 age_in_5_years = age + 5
 print("In 5 years you will be:", age_in_5_years)
+
+print("Version 2 active")
